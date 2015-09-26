@@ -1,0 +1,3 @@
+Isolated differences between the versions
+Could ignore the other untouched parts of program
+

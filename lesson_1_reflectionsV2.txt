@@ -1,0 +1,6 @@
+Isolated differences between the versions
+Could ignore the other untouched parts of program
+
+Can see if the old parts of program worked and refer
+back to it
+
