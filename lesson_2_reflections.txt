@@ -1,3 +1,9 @@
-Initialize a repository: creates a .git file.  
+Initialize a repository: creates a .git file.  Not sure
+why I need to do it.
 
 Staging area is a temporary holding pen, unlike working directory and repository.  
+
+Use diff to compare the working directory and the staging area to 
+see what change was made
+
+Situations where branch keeps thing organized: when redoing a div for a new section of webpage, when making changes to functions
