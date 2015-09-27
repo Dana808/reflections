@@ -11,3 +11,7 @@ Branch=done on local within a repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Can do a diff to compare new version against local
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Phone:  harder, slow, and tedious
+Dropbox: harder, no version tracking, no merge
+Internal server: harder, esp. if collaborator(s) from outside
