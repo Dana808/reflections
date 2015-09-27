@@ -7,3 +7,6 @@ back to it
 Git clone will clone the repository. Git log will show the changes
 made.  Git diff will compare two files and show a list of the changes
 
+If I have a working version, then I don't worry about messing it 
+and not being able to go back to the original
+
