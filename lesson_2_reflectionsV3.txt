@@ -15,3 +15,5 @@ conflict.  Simple solution was to resolve the confilct by choosing the appropria
 committing it to the branch.  However, I was saving to the wrong place and I have no idea where the first two
 commits went so had to do a third and finally got that into the right branch and the merge went through fine
 Messy.
+
+Automatic merging is faster than manual merging.  Still messy though.
