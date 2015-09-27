@@ -2,3 +2,8 @@ When to use a remote repository: when collaborating with others, backup local
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Commits done by collaborators might conflict with version being worked on in local computer
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork=GitHub clone of a repository on GitHub.  Fork when don't have permission to modify original.
+Clone=can be done on GitHub or local
+Branch=done on local within a repository
