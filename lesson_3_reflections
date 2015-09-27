@@ -1,1 +1,4 @@
 When to use a remote repository: when collaborating with others, backup local
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Commits done by collaborators might conflict with version being worked on in local computer
