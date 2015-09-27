@@ -1,0 +1,3 @@
+Initialize a repository: creates a .git file.  
+
+Staging area is a temporary holding pen, unlike working directory and repository.  
